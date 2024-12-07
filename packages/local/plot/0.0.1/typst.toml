@@ -1,0 +1,6 @@
+[package]
+name = "plot"
+version = "0.0.1"
+authors = ["Ryan Moffitt <rmoff938@students.bju.edu>"]
+description = "Plotting interface"
+entrypoint = "plot.typ"

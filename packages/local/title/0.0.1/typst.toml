@@ -1,0 +1,6 @@
+[package]
+name = "title"
+version = "0.0.1"
+authors = ["Ryan Moffitt <rmoff938@students.bju.edu>"]
+description = "Simple title page template"
+entrypoint = "title.typ"

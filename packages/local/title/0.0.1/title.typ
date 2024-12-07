@@ -1,4 +1,4 @@
-#let conf(
+#let title(
   title: none,
   authors: (),
   date: none,
